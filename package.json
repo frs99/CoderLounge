@@ -14,6 +14,7 @@
     "update-package": "npm outdated"
   },
   "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.7.0",
     "nuxt": "3.5.2"
   }
 }
